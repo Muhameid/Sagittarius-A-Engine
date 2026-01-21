@@ -51,6 +51,6 @@ L'objectif principal de ce moteur est de démontrer une implémentation manuelle
 
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf4cf025-d1e6-484b-b4bc-168ccf4476de" width="800" alt="voie_lactée">
+  <img src="https://github.com/user-attachments/assets/20801530-2bf5-4e9e-bbf5-a6e511781a4b" width="800" alt="voie_lactée">
 </p>
-  
+
